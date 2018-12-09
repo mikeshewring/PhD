@@ -1,0 +1,1 @@
+http://lle.gov.wales/services/wfs?version=1.0.0&request=GetFeature&typeName=inspire-nrw:NRW_SEABIRD_WWT_ESAS_MERGED_SITTING_2KM_WGS84&outputFormat=SHAPE-ZIP
