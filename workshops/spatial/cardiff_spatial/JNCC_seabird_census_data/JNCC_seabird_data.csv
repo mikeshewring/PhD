@@ -1,0 +1,754 @@
+Country,County,Master site,Site,Date,Time,Common name,Count,Qualifier,Accuracy,Visibility,Rain,Wind,Comments,Checked,day,month,year
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 1,18-Jun-14,13:50-15:40,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 1,14-Jun-16,13:20-13:30,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 2,15-Jun-10,13:40-16:10,Common Guillemot,0,Individuals on land,Accurate,good,None,2,,,15,6,2010
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 2,06-Jun-13,10:30-15:30,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,6,6,2013
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 2,18-Jun-14,13:50-15:40,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 2,14-Jun-16,13:30-13:40,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Porth Llanlleiana to Porth Eilian,Middle Mouse,07-Jun-86,,Common Guillemot,586,Individuals on land,Ac+min+max,,,,,,7,6,1986
+Wales,Gwynedd,Porth Llanlleiana to Porth Eilian,Middle Mouse,1987,,Common Guillemot,630,Individuals on land,Accurate,,,,JA,,9,6,1987
+Wales,Gwynedd,Porth Llanlleiana to Porth Eilian,Middle Mouse,03-Jun-02,11:10 - 12:20,Common Guillemot,2464,Individuals on land,Accurate,good,None,4,,,3,6,2002
+Wales,Gwynedd,Porth Llanlleiana to Porth Eilian,Middle Mouse,09-Jun-16,16:50-17:10,Common Guillemot,5550,Individuals on land,Estimate,good,None,0,,,9,6,2016
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,1986,,Common Guillemot,872,Individuals on land,Estimate,,,,JA,,8,6,1986
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,03-Jul-90,14:10-14:20,Common Guillemot,460,Individuals on land,Estimate,good,None,2,,,3,7,1990
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,21-Jun-97,10:30-12:00,Common Guillemot,1559,Individuals on land,Estimate,,None,4,,,21,6,1997
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,26-Jun-99,10:00-13:00,Common Guillemot,1652,Individuals on land,Estimate,good,None,,,,26,6,1999
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,24-Jun-00,00:00,Common Guillemot,1821,Individuals on land,Estimate,,None,,,,24,6,2000
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,23-Jun-01,10:30 - 12:00,Common Guillemot,2799,Individuals on land,Accurate,good,None,3,,,23,6,2001
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,26-Jun-02,09:45-13:45,Common Guillemot,2106,Individuals on land,Estimate,good,None,2,,,26,6,2002
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,01-Jul-03,10:30-12:30,Common Guillemot,2599,Individuals on land,Estimate,good,None,1,,,1,7,2003
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,22-Jun-04,10:40-13:15,Common Guillemot,2208,Individuals on land,Estimate,good,None,1,,,22,6,2004
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,08-Jun-05,09:30-12:15,Common Guillemot,3323,Individuals on land,Estimate,good,None,1,,,8,6,2005
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,28-Jun-06,09:50-12:55,Common Guillemot,2325,Individuals on land,Estimate,good,None,1,,,28,6,2006
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,22-Jun-07,10:05-12:35,Common Guillemot,1979,Individuals on land,Estimate,good,None,2,,,22,6,2007
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,02-Jun-09,09:50-11:55,Common Guillemot,3533,Individuals on land,Estimate,good,None,2,,,2,6,2009
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,07-Jun-10,09:30-11:45,Common Guillemot,2249,Individuals on land,Estimate,good,None,1,,,7,6,2010
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,20-Jun-11,09:50-12:45,Common Guillemot,3072,Individuals on land,Estimate,good,None,3,,,20,6,2011
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,27-Jun-13,09:20-12:15,Common Guillemot,3086,Individuals on land,Estimate,poor,continuous light,4,,,27,6,2013
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,12-Jun-14,09:30-12:15,Common Guillemot,3295,Individuals on land,Estimate,good,None,2,,,12,6,2014
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,14-Jun-15,09:30-12:45,Common Guillemot,3627,Individuals on land,Estimate,good,None,1,,,14,6,2015
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,14-Jun-17,09:55-12:55,Common Guillemot,3085,Individuals on land,Estimate,good,None,0,,,14,6,2017
+Wales,Gwynedd,Puffin Island SPA,Puffin Island,08-Jun-18,09:30-14:10,Common Guillemot,4178,Individuals on land,Estimate,good,None,0,,,8,6,2018
+Wales,Gwynedd,South Stack,Abraham's Bosom,23-Jun-01,18:30 - 19:00,Common Guillemot,165,Individuals on land,Accurate,good,None,2,,,23,6,2001
+Wales,Gwynedd,South Stack,Abraham's Bosom,09-Jun-16,15:27-15:45,Common Guillemot,315,Individuals on land,Estimate,good,None,0,,,9,6,2016
+Wales,Gwynedd,South Stack,Gogarth,23-Jun-01,19:30 - 20:00,Common Guillemot,196,Individuals on land,Accurate,good,None,2,,,23,6,2001
+Wales,Gwynedd,South Stack,Gogarth,09-Jun-16,15:45-16:00,Common Guillemot,7,Individuals on land,Accurate,good,None,0,,,9,6,2016
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,Jun-87,,Common Guillemot,2979,Individuals on land,Minimum,,,,,,1,6,1987
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,04 June 2001 - 23 June 2001,08:45 - 10:30,Common Guillemot,3528,Individuals on land,Estimate,good,None,1,,,,,2001
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2 June 2006 - 6 June 2006,09:15-13:00,Common Guillemot,4859,Individuals on land,Accurate,,,,RSPB site 2413,,,,2006
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2007,00:00,Common Guillemot,5053,Individuals on land,Accurate,,,,,,29,6,2007
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2008,00:00,Common Guillemot,4221,Individuals on land,Accurate,,,,,,30,6,2008
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2009,00:00,Common Guillemot,4858,Individuals on land,Accurate,,,,Imported from RSPB database ..,,1,7,2009
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2010,,Common Guillemot,4705,Individuals on land,Accurate,,,,Imported from RSPB database ..,,2,7,2010
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2011,00:00,Common Guillemot,5630,Individuals on land,Accurate,,,,,,3,7,2011
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,1 January 2012 - 29 November 2012,00:00,Common Guillemot,5183,Individuals on land,Accurate,,,,,,,,2012
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2013,00:00,Common Guillemot,5563,Individuals on land,Accurate,,,,RSPB site 2413,,5,7,2013
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2014,00:00,Common Guillemot,4773,Individuals on land,Accurate,,,,,,6,7,2014
+Wales,Gwynedd,South Stack,South Stack and Penlas RSPB,2015,00:00,Common Guillemot,5878,Individuals on land,Accurate,,,,,,7,7,2015
+Wales,West Glamorgan,Gower,Worms Head,1986,,Common Guillemot,85,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,West Glamorgan,Gower,Worms Head,1987,00:00,Common Guillemot,178,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,West Glamorgan,Gower,Worms Head,1988,,Common Guillemot,154,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,West Glamorgan,Gower,Worms Head,1989,,Common Guillemot,184,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,West Glamorgan,Gower,Worms Head,1990,,Common Guillemot,118,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,West Glamorgan,Gower,Worms Head,1991,,Common Guillemot,146,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,West Glamorgan,Gower,Worms Head,03-Jun-01,15:00 - 15:30,Common Guillemot,190,Individuals on land,Estimate,good,None,2,,,3,6,2001
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),2010,00:00,Common Guillemot,104,Individuals on land,Accurate,,,,,,2,7,2010
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1 January 2011 - 1 November 2011,00:00,Common Guillemot,77,Individuals on land,Accurate,,,,,,,,2011
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),09-Jun-15,00:00,Common Guillemot,44,Individuals on land,Accurate,,,,,,9,6,2015
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1 January 2017 - 1 November 2017,00:00,Common Guillemot,23,Individuals on land,Accurate,,,,,,,,2017
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1 January 2018 - 1 October 2018,00:00,Common Guillemot,59,Individuals on land,Accurate,,,,,,,,2018
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1986,00:00,Common Guillemot,1120,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1987,00:00,Common Guillemot,1525,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1988,00:00,Common Guillemot,1640,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1989,00:00,Common Guillemot,510,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1990,00:00,Common Guillemot,1370,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1991,00:00,Common Guillemot,1630,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1992,00:00,Common Guillemot,1125,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,15-Jun-93,00:00,Common Guillemot,1520,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1994,,Common Guillemot,1935,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,21-Jun-95,19:00-20:00,Common Guillemot,1740,Individuals on land,Accurate,,,,,,21,6,1995
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,1996,00:00,Common Guillemot,684,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,29-May-97,18:00-20:00,Common Guillemot,1875,Individuals on land,Accurate,,,,,,29,5,1997
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,27-May-99,18:30 - 21:00,Common Guillemot,622,Individuals on land,Accurate,fair,discontinuous light,1,,,27,5,1999
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,28-Jun-00,00:00,Common Guillemot,1512,Individuals on land,Accurate,,,,,,28,6,2000
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,2001,00:00,Common Guillemot,1452,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,2002,00:00,Common Guillemot,1585,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,2004,00:00,Common Guillemot,1675,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,2005,00:00,Common Guillemot,650,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,04-Jul-06,00:00-20:00,Common Guillemot,1012,Individuals on land,Accurate,,,,,,4,7,2006
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,17-Jun-10,16:45-17:45,Common Guillemot,1681,Individuals on land,Accurate,,,,,,17,6,2010
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,29-Jun-11,12:20-16:00,Common Guillemot,1478,Individuals on land,Accurate,,,,,,29,6,2011
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,05-Jul-13,19:30-20:55,Common Guillemot,1903,Individuals on land,Accurate,good,None,1,,,5,7,2013
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,23-Jun-14,08:30-09:30,Common Guillemot,1773,Individuals on land,Accurate,good,None,2,,,23,6,2014
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,29-Jun-15,14:30-16:00,Common Guillemot,1626,Individuals on land,Accurate,good,None,2,,,29,6,2015
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,24-Jun-16,10:30-12:00,Common Guillemot,2264,Individuals on land,Accurate,,,,,,24,6,2016
+Wales,Gwynedd,Great Orme and Little Orme,Great Orme,14-Jun-17,18:30-20:00,Common Guillemot,2618,Individuals on land,Accurate,,,,,,14,6,2017
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1986,,Common Guillemot,845,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1987,,Common Guillemot,818,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1988,,Common Guillemot,724,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1989,,Common Guillemot,441,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1990,,Common Guillemot,850,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1991,,Common Guillemot,790,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1992,,Common Guillemot,765,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,20 January 1993 - 31 December 1993,00:00,Common Guillemot,665,Individuals on land,Accurate,,,,,,,,1993
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,1994,,Common Guillemot,980,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,21-Jun-95,17:45-18:45,Common Guillemot,865,Individuals on land,Accurate,,,,,,21,6,1995
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,25-Jun-96,00:00,Common Guillemot,726,Individuals on land,Accurate,,,,,,25,6,1996
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,29-May-97,18:00-20:00,Common Guillemot,927,Individuals on land,Accurate,,,,,,29,5,1997
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,22-Jun-98,18:00-20:00,Common Guillemot,732,Individuals on land,Accurate,,,,,,22,6,1998
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,27-May-99,18:30-21:00,Common Guillemot,444,Individuals on land,Accurate,,,,,,27,5,1999
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,28-Jun-00,18:30-21:15,Common Guillemot,603,Individuals on land,Accurate,,,,,,28,6,2000
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,22-Jun-02,15:30-18:30,Common Guillemot,604,Individuals on land,Accurate,,,,,,22,6,2002
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,25-Jun-04,16:30-17:00,Common Guillemot,678,Individuals on land,Accurate,,,,,,25,6,2004
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,14-Jul-05,18:50-19:50,Common Guillemot,122,Individuals on land,Accurate,,,,,,14,7,2005
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,04-Jul-06,20:00-21:00,Common Guillemot,611,Individuals on land,Accurate,,,,,,4,7,2006
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,17-Jun-10,15:15-16:30,Common Guillemot,628,Individuals on land,Accurate,,,,,,17,6,2010
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,29-Jun-11,12:20-16:00,Common Guillemot,516,Individuals on land,Accurate,,,,,,29,6,2011
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,05-Jul-13,18:05-19:20,Common Guillemot,899,Individuals on land,Accurate,good,None,1,,,5,7,2013
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,23-Jun-14,07:15-08:20,Common Guillemot,1314,Individuals on land,Accurate,good,None,2,,,23,6,2014
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,29-Jun-15,16:15-17:15,Common Guillemot,538,Individuals on land,Accurate,good,None,2,,,29,6,2015
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,24-Jun-16,12:00-13:30,Common Guillemot,845,Individuals on land,Accurate,,,,,,24,6,2016
+Wales,Gwynedd,Great Orme and Little Orme,Little Orme,14-Jun-17,17:00-18:30,Common Guillemot,805,Individuals on land,Accurate,,,,,,14,6,2017
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,07-Jun-70,14:00-15:00,Common Guillemot,2005,Individuals on land,Estimate,good,None,2,,,7,6,1970
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,02-Jul-76,11:30-13:00,Common Guillemot,2960,Individuals on land,Accurate,good,None,,,,2,7,1976
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,03-Jul-79,11:00-15:00,Common Guillemot,3486,Individuals on land,Accurate,good,None,2,,,3,7,1979
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,04-Jun-87,11:00-14:30,Common Guillemot,5205,Individuals on land,Estimate,good,None,3,,,4,6,1987
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,16-Jun-89,,Common Guillemot,7586,Individuals on land,Accurate,,,,,,16,6,1989
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,14-Jun-90,,Common Guillemot,6119,Individuals on land,Accurate,,,,,,14,6,1990
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,25-Jun-92,11:00-14:30,Common Guillemot,5775,Individuals on land,Estimate,good,None,2,,,25,6,1992
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,24-Jun-97,13:50-16:00,Common Guillemot,6185,Individuals on land,Estimate,good,discontinuous light,2,,,24,6,1997
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,18-Jun-00,08:45 - 10:00,Common Guillemot,7980,Individuals on land,Estimate,good,None,1,,,18,6,2000
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,27-Jun-06,11:30-15:00,Common Guillemot,8226,Individuals on land,Estimate,fair,discontinuous light,0,,,27,6,2006
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,23-Jun-09,10:05-13:30,Common Guillemot,17230,Individuals on land,Estimate,good,None,,very large increase ..,,23,6,2009
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,01-Jul-11,11:00-13:30,Common Guillemot,13520,Individuals on land,Estimate,good,None,1,,,1,7,2011
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,07-Jun-13,11:00-13:30,Common Guillemot,9770,Individuals on land,Estimate,good,None,1,,,7,6,2013
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,13-Jun-14,11:00-13:30,Common Guillemot,6213,Individuals on land,Estimate,good,None,1,,,13,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,30-Jun-15,11:00-13:30,Common Guillemot,9676,Individuals on land,Estimate,good,None,1,,,30,6,2015
+Wales,Gwynedd,Lleyn Peninsula,Carreg y Llam,13-Jun-18,09:05-11:25,Common Guillemot,13662,Individuals on land,Estimate,good,None,2,,,13,6,2018
+Wales,Gwynedd,Lleyn Peninsula,Murian,18-Jun-14,13:50-15:40,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Murian,14-Jun-16,14:05-14:15,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Penymynydd,17-Jun-00,10:15 - 10:35,Common Guillemot,15,Individuals on land,Accurate,good,None,2,,,17,6,2000
+Wales,Gwynedd,Lleyn Peninsula,Penymynydd,15-Jun-10,13:40-16:10,Common Guillemot,9,Individuals on land,Accurate,good,None,2,,,15,6,2010
+Wales,Gwynedd,Lleyn Peninsula,Penymynydd,06-Jun-13,10:30-15:30,Common Guillemot,8,Individuals on land,Accurate,good,None,0,,,6,6,2013
+Wales,Gwynedd,Lleyn Peninsula,Penymynydd,18-Jun-13,13:50-15:30,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2013
+Wales,Gwynedd,Lleyn Peninsula,Penymynydd,14-Jun-16,14:50-15:10,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Porth Ceiriad East,18-Jun-14,13:50-15:40,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Porth Ceiriad East,14-Jun-16,13:40-13:50,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Porth Ceiriad West,18-Jun-14,13:50-15:40,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Porth Ceiriad West,14-Jun-16,13:50-14:05,Common Guillemot,0,Individuals on land,Accurate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island East,1986,00:00,Common Guillemot,377,Individuals on land,Accurate,,,,JA,,8,6,1986
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island East,28-Jun-00,08:00-08:45,Common Guillemot,731,Individuals on land,Accurate,,,,,,28,6,2000
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island East,06-Jun-13,12:10-13:20,Common Guillemot,728,Individuals on land,Accurate,good,None,2,,,6,6,2013
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island East,18-Jun-14,12:17-13:20,Common Guillemot,768,Individuals on land,Estimate,good,None,1,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island East,14-Jun-16,11:40-12:45,Common Guillemot,1139,Individuals on land,Estimate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island West,28-Jun-00,08:45-09:30,Common Guillemot,231,Individuals on land,Accurate,,,,,,28,6,2000
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island West,06-Jun-13,10:45-12:00,Common Guillemot,392,Individuals on land,Accurate,good,None,2,,,6,6,2013
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island West,18-Jun-14,10:50-12:00,Common Guillemot,624,Individuals on land,Estimate,good,None,1,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,St Tudwal's Island West,14-Jun-16,10:30-11:30,Common Guillemot,352,Occupied nests,Estimate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Cilan,17-Jun-00,09:20-10:10,Common Guillemot,3000,Individuals on land,Accurate,,,,,,17,6,2000
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Cilan,15-Jun-10,10:30-15:30,Common Guillemot,3223,Individuals on land,Estimate,good,None,0,,,15,6,2010
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Cilan,06-Jun-13,10:30-15:30,Common Guillemot,3413,Individuals on land,Estimate,good,None,0,,,6,6,2013
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Cilan,18-Jun-14,13:50-15:40,Common Guillemot,2233,Individuals on land,Estimate,good,None,0,,,18,6,2014
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Cilan,14-Jun-16,14:15-14:50,Common Guillemot,1632,Individuals on land,Estimate,good,discontinuous light,1,,,14,6,2016
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 1,15-Jun-10,13:40-16:10,Common Guillemot,0,Individuals on land,Accurate,good,None,2,,,15,6,2010
+Wales,Gwynedd,Lleyn Peninsula,Trwyn Yr Wylfa 1,17-Jun-00,08:30 - 08:35,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,17,6,2000
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1997,,Common Guillemot,379,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1998,,Common Guillemot,375,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1999,00:00,Common Guillemot,501,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,2000,00:00,Common Guillemot,501,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,2001,00:00,Common Guillemot,473,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,2003,00:00,Common Guillemot,392,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,2004,00:00,Common Guillemot,543,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,2005,00:00,Common Guillemot,858,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,03-Jun-06,00:00-14:00,Common Guillemot,396,Individuals on land,Accurate,,,,No times provided.,,3,6,2006
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,09-Jun-07,09:00-17:00,Common Guillemot,796,Individuals on land,Estimate,,,,,,9,6,2007
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1 June 2008 - 8 June 2008,00:00-17:00,Common Guillemot,755,Individuals on land,Estimate,good,None,0,,,,,2008
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,03-Jun-09,14:00-16:00,Common Guillemot,996,Individuals on land,Estimate,good,None,0,HIGHEST EVER COUNT,,3,6,2009
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,23-May-10,11:30-15:15,Common Guillemot,876,Individuals on land,Estimate,good,None,0,one cliff low counts ..,,23,5,2010
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,02-Jun-11,09:00-10:30,Common Guillemot,1261,Individuals on land,Estimate,good,None,0,mANY BIRDS ON WATER ..,,2,6,2011
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,28-May-12,13:00-14:30,Common Guillemot,1327,Individuals on land,Estimate,good,None,0,one small section es ..,,28,5,2012
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,04-Jun-13,14:00-15:30,Common Guillemot,1315,Individuals on land,Estimate,good,None,0,FAIR COUNT - WEST COAST ..,,4,6,2013
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,29 May 2014 - 1 June 2014,12:00-15:00,Common Guillemot,1266,Individuals on land,Estimate,good,None,0,flat calm first count ..,,,,2014
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,30 May 2015 - 10 June 2015,11:00-15:00,Common Guillemot,1197,Individuals on land,Estimate,good,None,1,"mAY ROUGH ON WEST SIDE, ..",,,,2015
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,28-May-16,10:00-11:30,Common Guillemot,1403,Individuals on land,Estimate,good,None,1,WITHIN 5%,,28,5,2016
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,31 May 2017 - 13 June 2017,11:30-15:00,Common Guillemot,1378,Individuals on land,Estimate,good,None,2,west side difficult ..,,,,2017
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,25 May 2018 - 3 June 2018,11:00-15:00,Common Guillemot,1806,Individuals on land,Estimate,good,None,1,good estimate,,,,2018
+Wales,Dyfed,Strumble Head - Aberbach,Pen Brush,1998,,Common Guillemot,3,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head - Aberbach,Pen Brush,1999,,Common Guillemot,9,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Strumble Head - Aberbach,Pen Brush,2000,,Common Guillemot,14,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Strumble Head - Aberbach,Pen Brush,05-Jun-18,11:30-11:45,Common Guillemot,361,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy - Pwll Deri,1987,00:00,Common Guillemot,51,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy - Pwll Deri,1996,00:00,Common Guillemot,32,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy - Pwll Deri,1998,,Common Guillemot,56,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy - Pwll Deri,1999,,Common Guillemot,49,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy - Pwll Deri,2000,,Common Guillemot,67,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy N,25-Jun-00,15:30 - 15:50,Common Guillemot,67,Individuals on land,Accurate,good,None,3,,,25,6,2000
+Wales,Dyfed,Strumble Head - Aberbach,Penbwchdy N,05-Jun-18,10:25-10:40,Common Guillemot,40,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Strumble Head - Aberbach,Ynys Ddu,1998,,Common Guillemot,32,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head - Aberbach,Ynys Ddu,1999,,Common Guillemot,57,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Strumble Head - Aberbach,Ynys Ddu,2000,,Common Guillemot,56,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Strumble Head - Aberbach,Ynys Ddu,05-Jun-18,11:05-11:20,Common Guillemot,354,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Strumble Head - Aberbach,Ynys Melyn,05-Jun-18,10:55-11:05,Common Guillemot,109,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Strumble Head - Aberbach,Ynys y Dinas,05-Jun-18,10:50-10:55,Common Guillemot,1,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Dinas Head,1998,,Common Guillemot,1,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Dinas Head,21-May-01,13:00 - 14:30,Common Guillemot,38,Individuals on land,Estimate,good,None,0,,,21,5,2001
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Dinas Head,05-Jun-18,13:00-13:20,Common Guillemot,73,Individuals on land,Accurate,good,None,2,,,5,6,2018
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Fishguard to Pwllgwaelod,1987,00:00,Common Guillemot,77,Individuals on land,Accurate,,,,JA,,9,6,1987
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Fishguard to Pwllgwaelod,1996,00:00,Common Guillemot,88,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Fishguard to Pwllgwaelod,1997,00:00,Common Guillemot,75,Individuals on land,Accurate,,,,JA,,19,6,1997
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Fishguard to Pwllgwaelod,1998,,Common Guillemot,82,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Fishguard to Pwllgwaelod,05-Jun-18,12:45-13:00,Common Guillemot,101,Individuals on land,Accurate,good,None,2,,,5,6,2018
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,1987,,Common Guillemot,4,Individuals on land,Accurate,,,,JA,,9,6,1987
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,1996,,Common Guillemot,240,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,1998,,Common Guillemot,288,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,21-May-01,13:00 - 14:30,Common Guillemot,172,Individuals on land,Estimate,good,None,0,,,21,5,2001
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,24-Jun-14,14:45-15:30,Common Guillemot,170,Individuals on land,Estimate,good,None,2,Range of counts was ..,,24,6,2014
+Wales,Dyfed,Strumble Head to Fishguard to Newport,Needle Rock,05-Jun-18,13:20-13:35,Common Guillemot,291,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1986,,Common Guillemot,176,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1987,,Common Guillemot,321,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1989,,Common Guillemot,400,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1990,,Common Guillemot,375,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1991,00:00,Common Guillemot,340,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1992,,Common Guillemot,267,Individuals on land,Accurate,,,,JA,,14,6,1992
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1993,,Common Guillemot,278,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1994,,Common Guillemot,282,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1995,,Common Guillemot,269,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1996,,Common Guillemot,280,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1997,,Common Guillemot,288,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1998,,Common Guillemot,237,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1999,,Common Guillemot,399,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2000,00:00,Common Guillemot,848,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2001,00:00,Common Guillemot,609,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2002,00:00,Common Guillemot,754,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2003,00:00,Common Guillemot,711,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2004,00:00,Common Guillemot,688,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2005,00:00,Common Guillemot,785,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2006,00:00,Common Guillemot,744,Individuals on land,Accurate,,,,,,28,6,2006
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2007,00:00,Common Guillemot,646,Occupied sites,Accurate,,,,,,29,6,2007
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2008,00:00,Common Guillemot,558,Individuals on land,Accurate,,,,,,30,6,2008
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1 January 2009 - 4 December 2009,00:00,Common Guillemot,1016,Individuals on land,Accurate,,,,,,,,2009
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2010,00:00,Common Guillemot,987,Individuals on land,Accurate,,,,,,2,7,2010
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1 January 2011 - 1 November 2011,00:00,Common Guillemot,981,Individuals on land,Accurate,,,,,,,,2011
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1 January 2012 - 1 December 2012,00:00,Common Guillemot,1234,Individuals on land,Accurate,,,,,,,,2012
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,2013,00:00,Common Guillemot,1071,Individuals on land,Accurate,,,,,,5,7,2013
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,Jan 2015 - Oct 2015,00:00,Common Guillemot,1240,Individuals on land,Accurate,,,,,,,,2015
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,Jan 2016 - Oct 2016,00:00,Common Guillemot,1346,Individuals on land,Accurate,,,,,,,,2016
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1 January 2017 - 1 November 2017,00:00,Common Guillemot,1574,Individuals on land,Accurate,,,,,,,,2017
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Bardsey Island,1 January 2018 - 1 October 2018,00:00,Common Guillemot,1112,Individuals on land,Accurate,,,,,,,,2018
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Braich Anelog,10-Jun-16,12:45-12:52,Common Guillemot,10,Individuals on land,Estimate,good,None,0,,,10,6,2016
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Maen Du,1986,00:00,Common Guillemot,2,Individuals on land,Accurate,,,,JA,,8,6,1986
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Maen Du,18-Jun-00,12:45 - 13:00,Common Guillemot,11,Individuals on land,Accurate,good,None,1,,,18,6,2000
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Maen Du,10-Jun-16,12:30-12:35,Common Guillemot,40,Individuals on land,Estimate,good,None,0,,,10,6,2016
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Parwyd,17-Jun-00,12:30 - 12:35,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,17,6,2000
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Porth Felen,17-Jun-00,12:40 - 12:45,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,17,6,2000
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1986,,Common Guillemot,3,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1986,,Common Guillemot,132,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1993,,Common Guillemot,148,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1994,,Common Guillemot,163,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1994,,Common Guillemot,8,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1995,,Common Guillemot,4,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1995,,Common Guillemot,138,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1999,,Common Guillemot,18,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1999,,Common Guillemot,156,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),2007,00:00,Common Guillemot,203,Individuals on land,Accurate,,,,,,29,6,2007
+Wales,Gwynedd,Aberdaron Coast and Bardsey Island SPA,Ynysoedd Gwylan (Fawr and Bach Total),1 January 2009 - 4 December 2009,00:00,Common Guillemot,151,Individuals on land,Accurate,,,,,,,,2009
+Wales,Dyfed,Newport to Poppit,Ceibwr1,1998,,Common Guillemot,33,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Newport to Poppit,Ceibwr1,21-May-01,15:30 - 17:20,Common Guillemot,279,Individuals on land,Accurate,good,None,0,,,21,5,2001
+Wales,Dyfed,Newport to Poppit,Ceibwr1,04-Jun-18,15:05-15:20,Common Guillemot,16,Individuals on land,Accurate,good,None,,,,4,6,2018
+Wales,Dyfed,Newport to Poppit,Ceibwr1,05-Jun-18,14:35-14:50,Common Guillemot,24,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Newport to Poppit,Cemaes Head,21-May-01,15:30 - 17:20,Common Guillemot,140,Individuals on land,Accurate,good,None,0,,,21,5,2001
+Wales,Dyfed,Newport to Poppit,Cemaes Head,04-Jun-18,15:45-16:00,Common Guillemot,51,Individuals on land,Estimate,good,None,0,,,4,6,2018
+Wales,Dyfed,Newport to Poppit,Cemaes Head,05-Jun-18,15:15-15:30,Common Guillemot,45,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Newport to Poppit,Godir-y-Golomon (Traeth Coll - Howell to Pen-y-bal,1996,00:00,Common Guillemot,2,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Newport to Poppit,Godir-y-Golomon (Traeth Coll - Howell to Pen-y-bal,1998,,Common Guillemot,1,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Newport to Poppit,Pen-yr-Afr,1996,,Common Guillemot,247,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Newport to Poppit,Pen-yr-Afr,1997,,Common Guillemot,212,Individuals on land,Accurate,,,,JA,,19,6,1997
+Wales,Dyfed,Newport to Poppit,Pen-yr-Afr,1998,,Common Guillemot,278,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1990,,Common Guillemot,101,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1993,,Common Guillemot,162,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1995,00:00,Common Guillemot,183,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1996,,Common Guillemot,212,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1997,,Common Guillemot,214,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1998,,Common Guillemot,253,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1999,,Common Guillemot,323,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,2007,00:00,Common Guillemot,189,Individuals on land,Accurate,,,,,,29,6,2007
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1 June 2008 - 14 June 2008,00:00,Common Guillemot,207,Individuals on land,Accurate,,,,,,,,2008
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,1 June 2009 - 14 June 2009,00:00,Common Guillemot,315,Individuals on land,Accurate,,,,,,,,2009
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,19-Jun-17,10:00-12:00,Common Guillemot,310,Individuals on land,Accurate,,,,,,19,6,2017
+Wales,Dyfed,Skokholm and Skomer SPA,Middleholm,25-Jun-18,10:00-12:00,Common Guillemot,302,Individuals on land,Accurate,,,,,,25,6,2018
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1986,,Common Guillemot,165,Occupied nests,Accurate,,,,JA,,8,6,1986
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1987,,Common Guillemot,292,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1989,,Common Guillemot,203,Occupied nests,Accurate,,,,JA,,11,6,1989
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1990,,Common Guillemot,291,Occupied nests,Accurate,,,,JA,,12,6,1990
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1992,,Common Guillemot,478,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1993,,Common Guillemot,684,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1994,,Common Guillemot,643,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1995,,Common Guillemot,684,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1996,,Common Guillemot,509,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1997,,Common Guillemot,613,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1998,,Common Guillemot,774,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1999,00:00,Common Guillemot,864,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,May 2000 - Jun 2000,00:00,Common Guillemot,996,Individuals on land,Accurate,,,,,,,,2000
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,2001,00:00,Common Guillemot,981,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,2002,00:00,Common Guillemot,1157,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,2003,00:00,Common Guillemot,1073,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,2004,00:00,Common Guillemot,1202,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,14 June 2006 - 21 June 2006,10:00-16:00,Common Guillemot,1348,Individuals on land,Accurate,,,,,,,,2006
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2007 - 19 June 2007,00:00,Common Guillemot,1455,Individuals on land,Accurate,,,,,,,,2007
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,07-Jun-08,00:00,Common Guillemot,1538,Individuals on land,Accurate,,,,,,7,6,2008
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2009 - 10 June 2009,00:00,Common Guillemot,1697,Individuals on land,Accurate,,,,,,,,2009
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2010 - 10 June 2010,00:00,Common Guillemot,1795,Individuals on land,Accurate,,,,,,,,2010
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2011 - 10 June 2011,00:00,Common Guillemot,2212,Individuals on land,Accurate,,,,,,,,2011
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2012 - 10 June 2012,00:00,Common Guillemot,2330,Individuals on land,Accurate,,,,Mean of 5 counts,,,,2012
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,31-May-13,00:00,Common Guillemot,3466,Individuals on land,Accurate,,,,,,31,5,2013
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,31 May 2014 - 1 June 2014,00:00,Common Guillemot,3512,Individuals on land,Accurate,,,,,,,,2014
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,1 June 2015 - 10 June 2015,00:00,Common Guillemot,3603,Individuals on land,Accurate,,,,,,,,2015
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,2 June 2016 - 5 June 2016,00:00,Common Guillemot,3949,Individuals on land,Accurate,,,,,,,,2016
+Wales,Dyfed,Skokholm and Skomer SPA,Skokholm,28 May 2017 - 2 June 2017,00:00,Common Guillemot,4038,Individuals on land,Accurate,,,,,,,,2017
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,Jun-85,,Common Guillemot,6118,Individuals on land,Accurate,,,,,,1,6,1985
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1986,,Common Guillemot,5833,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1987,,Common Guillemot,6192,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1988,,Common Guillemot,6532,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1989,,Common Guillemot,5556,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1990,,Common Guillemot,6051,Individuals on land,Accurate,,,,,,12,6,1990
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1991,,Common Guillemot,7516,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1992,,Common Guillemot,8032,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1993,,Common Guillemot,8729,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1994,,Common Guillemot,8427,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1995,,Common Guillemot,9995,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1996,,Common Guillemot,9174,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1997,,Common Guillemot,9721,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1998,,Common Guillemot,10899,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1999,,Common Guillemot,12135,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,05 June 2000 - 18 June 2000,08:00 - 16:00,Common Guillemot,9777,Individuals on land,Accurate,,,,,,,,2000
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,05 June 2000 - 18 June 2000,08:00 - 16:00,Common Guillemot,4075,Individuals on land,Accurate,,,,,,,,2000
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,2001,,Common Guillemot,14281,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,2002,,Common Guillemot,14434,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,2003,,Common Guillemot,14676,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,2004,,Common Guillemot,14187,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,2005,,Common Guillemot,19711,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2006 - 27 June 2006,00:00,Common Guillemot,16977,Individuals on land,Accurate,,,,,,,,2006
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,4 June 2007 - 22 June 2007,,Common Guillemot,17544,Individuals on land,Estimate,,,,,,,,2007
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2008 - 23 June 2008,00:00,Common Guillemot,11579,Individuals on land,Accurate,,,,Sections visible from ..,,,,2008
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2008 - 23 June 2008,00:00,Common Guillemot,5509,Individuals on land,Accurate,,,,Sections only visible ..,,,,2008
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2009 - 16 June 2009,00:00,Common Guillemot,5173,Individuals on land,Accurate,,,,Sections visible from ..,,,,2009
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2009 - 16 June 2009,00:00,Common Guillemot,14339,Individuals on land,Accurate,,,,Sections visible from ..,,,,2009
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2010 - 19 June 2010,00:00,Common Guillemot,4319,Individuals on land,Accurate,,,,,,,,2010
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2010 - 19 June 2010,00:00,Common Guillemot,15643,Individuals on land,Accurate,,,,,,,,2010
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,28 May 2011 - 14 June 2011,00:00,Common Guillemot,15064,Individuals on land,Accurate,,,,,,,,2011
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,28 May 2011 - 14 June 2011,00:00,Common Guillemot,6624,Individuals on land,Accurate,,,,,,,,2011
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2012 - 15 June 2012,00:00,Common Guillemot,5951,Individuals on land,Accurate,,,,,,,,2012
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2012 - 15 June 2012,00:00,Common Guillemot,16557,Individuals on land,Accurate,,,,,,,,2012
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,1 June 2013 - 28 June 2013,00:00,Common Guillemot,20862,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,Jun-14,00:00,Common Guillemot,23493,Individuals on land,Accurate,,,,,,1,6,2014
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,Jun-15,00:00,Common Guillemot,23746,Individuals on land,Accurate,,,,,,1,6,2015
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,21 May 2017 - 20 June 2017,00:00,Common Guillemot,11241,Individuals on land,Accurate,,,,,,,,2017
+Wales,Dyfed,Skokholm and Skomer SPA,Skomer,21 May 2017 - 20 June 2017,00:00,Common Guillemot,13547,Individuals on land,Accurate,,,,,,,,2017
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,18-Jun-85,,Common Guillemot,432,Individuals on land,Accurate,,,,,,18,6,1985
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1986,,Common Guillemot,482,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1987,,Common Guillemot,437,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1988,,Common Guillemot,586,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1989,,Common Guillemot,598,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1993,,Common Guillemot,842,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1995,,Common Guillemot,791,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,St Margaret's Island,St Margaret's Island,1996,,Common Guillemot,334,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,11-Jun-16,00:00,Common Guillemot,17,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,17-Jun-17,11:10-11:20,Common Guillemot,13,Individuals on land,Accurate,good,None,2,,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,02-Jun-18,10:45-10:55,Common Guillemot,17,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,1998,,Common Guillemot,10,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,1999,,Common Guillemot,15,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2000,,Common Guillemot,13,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2001,,Common Guillemot,11,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2002,,Common Guillemot,16,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2003,,Common Guillemot,18,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2004,,Common Guillemot,0,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2005,,Common Guillemot,6,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,19-Jun-11,00:00,Common Guillemot,0,Individuals on land,Accurate,,,,,,19,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,2 June 2013 - 16 June 2013,00:00,Common Guillemot,0,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,21-Jun-15,00:00,Common Guillemot,0,Individuals on land,Accurate,good,None,3,,,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,11-Jun-16,00:00,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,17-Jun-17,11:20-11:30,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to Saddle Head,02-Jun-18,10:55-11:05,Common Guillemot,4,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to St Govan's Chapel,1994,,Common Guillemot,16,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to St Govan's Chapel,1995,,Common Guillemot,17,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle to St Govan's Chapel,1996,,Common Guillemot,26,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,1995,,Common Guillemot,542,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,1996,,Common Guillemot,567,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,1997,,Common Guillemot,702,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,1998,,Common Guillemot,826,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,1999,,Common Guillemot,834,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2000,,Common Guillemot,763,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2001,,Common Guillemot,976,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2002,,Common Guillemot,1187,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2003,,Common Guillemot,1203,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2004,,Common Guillemot,1133,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,2005,,Common Guillemot,1362,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,02-Jun-06,12:15-12:45,Common Guillemot,976,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,10-Jun-07,11:00-12:00,Common Guillemot,994,Individuals on land,Accurate,good,None,3,,,10,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,07-Jun-08,10:00-10:30,Common Guillemot,1315,Individuals on land,Accurate,good,None,1,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,19-Jun-09,15:00-15:30,Common Guillemot,1437,Individuals on land,Accurate,good,None,1,,,19,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,04-Jun-10,11:40-12:00,Common Guillemot,896,Individuals on land,Accurate,good,None,1,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,30-Jun-11,11:40-12:00,Common Guillemot,816,Individuals on land,Accurate,good,None,1,,,30,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,01-Jul-13,00:00,Common Guillemot,852,Individuals on land,Accurate,,,,,,1,7,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,15-Jun-14,00:00,Common Guillemot,1359,Individuals on land,Estimate,good,None,2,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,21-Jun-15,00:00,Common Guillemot,300,Individuals on land,Estimate,good,None,3,ONLY A SMALL PORTION ..,,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,11-Jun-16,00:00,Common Guillemot,1090,Individuals on land,Estimate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,17-Jun-17,09:30-09:50,Common Guillemot,823,Individuals on land,Estimate,good,None,2,SOME DIFFICULT TO SEE ..,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Wash to Green Bridge of Wales,02-Jun-18,09:25-09:50,Common Guillemot,939,Individuals on land,Estimate,good,None,1,,,2,6,2018
+Wales,Dyfed,Freshwater West to West Angle Bay,Sheep Island (Dyfed),1986,00:00,Common Guillemot,1,Individuals on land,Accurate,,,,JA,,8,6,1986
+Wales,Dyfed,Freshwater West to West Angle Bay,Sheep Island (Dyfed),1996,00:00,Common Guillemot,0,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Grassholm SPA,Grassholm,1986,,Common Guillemot,198,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Grassholm SPA,Grassholm,1987,,Common Guillemot,171,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Grassholm SPA,Grassholm,1993,,Common Guillemot,330,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Grassholm SPA,Grassholm,1994,,Common Guillemot,670,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Grassholm SPA,Grassholm,1995,,Common Guillemot,670,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Grassholm SPA,Grassholm,1996,,Common Guillemot,685,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Grassholm SPA,Grassholm,1997,,Common Guillemot,712,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Grassholm SPA,Grassholm,1999,,Common Guillemot,1052,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Grassholm SPA,Grassholm,2000,,Common Guillemot,995,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Grassholm SPA,Grassholm,11-Jun-01,17:00 - 19:30,Common Guillemot,1346,Individuals on land,Estimate,good,None,2,,,11,6,2001
+Wales,Dyfed,Grassholm SPA,Grassholm,2007,,Common Guillemot,1094,Individuals on land,Accurate,,,,,,29,6,2007
+Wales,Dyfed,Grassholm SPA,Grassholm,1 January 2012 - 28 November 2012,00:00,Common Guillemot,1849,Individuals on land,Accurate,,,,,,,,2012
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 1,1987,,Common Guillemot,168,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 1,1996,,Common Guillemot,252,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 1,02-Jun-00,13:08 - 13:22,Common Guillemot,270,Individuals on land,Accurate,fair,Contin light,2,,,2,6,2000
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 1,05-Jun-18,14:33-14:50,Common Guillemot,229,Individuals on land,Estimate,good,None,,,,5,6,2018
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 2,1996,00:00,Common Guillemot,2,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Llangrannog to Penpeles (includes Tresaith SSSI and Aberporth),Llangrannog 2,05-Jun-18,14:25-14:33,Common Guillemot,28,Individuals on land,Accurate,good,None,,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,Cwm Tydu 1,02-Jun-00,14:10 - 14:15,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Cwm Tydu 2,02-Jun-00,14:05 - 14:10,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Cwm Tydu 2,05-Jun-18,16:35-16:40,Common Guillemot,0,Occupied nests,Accurate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,Cwm Tydu 3,02-Jun-00,14:00 - 14:05,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Cwm Tydu 3,05-Jun-18,16:27-16:35,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 1,11-Jun-00,15:20 - 15:50,Common Guillemot,543,Individuals on land,Accurate,good,None,2,,,11,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 1,05-Jun-18,15:08-16:00,Common Guillemot,477,Individuals on land,Estimate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 2,1987,,Common Guillemot,565,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 2,1995,,Common Guillemot,310,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 2,1996,,Common Guillemot,378,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 2,02-Jun-00,13:28 - 13:30,Common Guillemot,0,Not applicable,Accurate,good,discontinuous light,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Lochtyn 3,02-Jun-00,13:22 - 13:28,Common Guillemot,0,Not applicable,Accurate,good,Contin light,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay 1,02-Jun-00,15:00 - 15:10,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay 1,05-Jun-18,17:50-18:00,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,New Quay 2,02-Jun-00,14:55 - 15:00,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay 2,05-Jun-18,17:45-17:50,Common Guillemot,0,Individuals on land,Accurate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,1987,,Common Guillemot,2336,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,1990,00:00,Common Guillemot,278,Individuals on land,Estimate,,,,JA,,12,6,1990
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,15-Jun-95,00:00,Common Guillemot,2062,Individuals on land,Accurate,,,,,,15,6,1995
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,1996,,Common Guillemot,2908,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,02-Jun-00,14:15 - 14:17,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,02-Jun-00,14:17 - 14:55,Common Guillemot,0,Not applicable,Accurate,good,None,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,13-Jun-00,12:30 - 13:30,Common Guillemot,3835,Individuals on land,Accurate,good,None,2,,,13,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,13-Jun-00,14:00 - 14:30,Common Guillemot,400,Individuals on land,Accurate,good,None,2,,,13,6,2000
+Wales,Dyfed,New Quay to Lochtyn,New Quay Head,05-Jun-18,17:00-17:45,Common Guillemot,5418,Individuals on land,Estimate,good,None,0,,,5,6,2018
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),1987,,Common Guillemot,132,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),15-Jun-95,00:00,Common Guillemot,132,Individuals on land,Accurate,,,,,,15,6,1995
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),06-Jun-96,00:00,Common Guillemot,216,Individuals on land,Accurate,,,,,,6,6,1996
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),02-Jun-00,13:40 - 13:47,Common Guillemot,117,Individuals on land,Accurate,good,discontinuous light,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),02-Jun-00,13:47 - 13:53,Common Guillemot,72,Individuals on land,Accurate,good,discontinuous light,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),02-Jun-00,13:53 - 14:00,Common Guillemot,45,Individuals on land,Accurate,good,discontinuous light,2,,,2,6,2000
+Wales,Dyfed,New Quay to Lochtyn,Penmoelciliau (Trwyn Crov - Cwmtydu),05-Jun-18,16:00-16:27,Common Guillemot,174,Individuals on land,Estimate,good,None,0,,,5,6,2018
+Wales,Dyfed,Newport to Poppit,Carreg Bica,1996,,Common Guillemot,249,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Newport to Poppit,Carreg Bica,1997,,Common Guillemot,197,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Newport to Poppit,Carreg Bica,1998,,Common Guillemot,299,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Newport to Poppit,Carreg Bica,04-Jun-18,14:45-15:05,Common Guillemot,203,Individuals on land,Estimate,good,None,0,,,4,6,2018
+Wales,Dyfed,Newport to Poppit,Carreg Bica,05-Jun-18,14:20-14:35,Common Guillemot,382,Individuals on land,Accurate,good,None,1,,,5,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1993,,Common Guillemot,497,Individuals on land,Accurate,,,,JA,,15,6,1993
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1994,,Common Guillemot,700,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1995,,Common Guillemot,588,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1996,,Common Guillemot,615,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1998,00:00,Common Guillemot,200,Individuals on land,Accurate,,,,JA,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,1994,,Common Guillemot,6,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,1995,,Common Guillemot,5,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,1996,,Common Guillemot,1,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,1997,,Common Guillemot,0,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,1999,,Common Guillemot,2,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2000,,Common Guillemot,2,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2001,,Common Guillemot,2,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2002,,Common Guillemot,0,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2003,,Common Guillemot,0,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2004,,Common Guillemot,2,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2005,,Common Guillemot,0,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,19-Jun-11,00:00,Common Guillemot,0,Individuals on land,Accurate,,,,,,19,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,2 June 2013 - 16 June 2013,00:00,Common Guillemot,0,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),New Quay to Trevallen,01-Jun-18,10:30-11:00,Common Guillemot,0,Individuals on land,Accurate,good,None,2,,,1,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1986,,Common Guillemot,290,Individuals on land,Estimate,,,,JA,,8,6,1986
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1987,,Common Guillemot,776,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1988,,Common Guillemot,996,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1989,,Common Guillemot,867,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1990,,Common Guillemot,306,Individuals on land,Estimate,,,,JA,,12,6,1990
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1991,,Common Guillemot,285,Individuals on land,Estimate,,,,JA,,13,6,1991
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1992,,Common Guillemot,887,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1993,00:00,Common Guillemot,982,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1994,,Common Guillemot,814,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1995,,Common Guillemot,1008,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1996,,Common Guillemot,852,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1997,,Common Guillemot,951,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1998,,Common Guillemot,1142,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1999,,Common Guillemot,1086,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2000,,Common Guillemot,970,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2001,,Common Guillemot,1074,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2002,,Common Guillemot,1103,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2003,,Common Guillemot,1070,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2004,,Common Guillemot,1151,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),2005,,Common Guillemot,1457,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),02-Jun-06,10:00-10:30,Common Guillemot,1149,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),12-Jun-07,14:00-15:00,Common Guillemot,1052,Individuals on land,Accurate,good,None,3,,,12,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),07-Jun-08,12:30-13:00,Common Guillemot,1121,Individuals on land,Accurate,good,None,2,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),19-Jun-09,10:30-11:00,Common Guillemot,1249,Individuals on land,Accurate,good,None,2,,,19,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),04-Jun-10,13:20-13:50,Common Guillemot,1158,Individuals on land,Accurate,good,None,2,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),1 June 2011 - 6 June 2011,00:00,Common Guillemot,1221,Individuals on land,Accurate,,,,,,,,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),28-May-12,14:00-16:00,Common Guillemot,742,Individuals on land,Accurate,good,None,2,the count is the sum ..,,28,5,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),20-Jun-12,10:30-12:00,Common Guillemot,942,Individuals on land,Accurate,good,None,1,Landbased count,,20,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),30 May 2013 - 19 June 2013,00:00,Common Guillemot,1444,Individuals on land,Accurate,,,,Count from land and ..,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),15-Jun-14,00:00,Common Guillemot,1358,Individuals on land,Accurate,good,None,2,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),09-Jun-15,00:00,Common Guillemot,696,Individuals on land,Estimate,good,None,2,A considerable under-estimate; ..,,9,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),10-Jun-16,09:30-11:30,Common Guillemot,1470,Individuals on land,Estimate,good,None,2,,,10,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),17-Jun-17,12:15-13:15,Common Guillemot,1339,Individuals on land,Estimate,good,None,2,Some birds not easy ..,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Saddle Point to Griffith Lorts Hole (Stackpole Head),02-Jun-18,11:40-12:30,Common Guillemot,1561,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1993,,Common Guillemot,8,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1994,,Common Guillemot,8,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1995,,Common Guillemot,6,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1996,,Common Guillemot,2,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1997,,Common Guillemot,9,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1998,,Common Guillemot,11,Individuals on land,Accurate,,,,JA,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,1999,,Common Guillemot,9,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2000,,Common Guillemot,6,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2001,,Common Guillemot,8,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2002,,Common Guillemot,25,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2003,,Common Guillemot,21,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2004,,Common Guillemot,0,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2005,,Common Guillemot,10,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,02-Jun-06,15:25-15:40,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,13-Jun-08,15:00-15:30,Common Guillemot,7,Individuals on land,Accurate,good,None,2,,,13,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,14-Jun-09,09:00-09:30,Common Guillemot,4,Individuals on land,Accurate,good,None,2,,,14,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,11-Jun-10,10:00-10:40,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,11,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,19-Jun-11,00:00,Common Guillemot,2,Individuals on land,Accurate,,,,,,19,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,09-Jun-12,11:45-12:00,Common Guillemot,2,Occupied nests,Accurate,good,None,2,,,9,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,2 June 2013 - 16 June 2013,00:00,Common Guillemot,10,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,04-Jun-15,00:00,Common Guillemot,3,Individuals on land,Estimate,good,None,3,A FEW OTHERS MAY HAVE ..,,4,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,11-Jun-16,00:00,Common Guillemot,5,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,17-Jun-17,12:10,Common Guillemot,6,Individuals on land,Accurate,good,None,2,,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),St Govan's Chapel to New Quay,01-Jun-18,10:00-10:30,Common Guillemot,0,Individuals on land,Accurate,good,None,2,,,1,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,23-Jun-89,11:00-11:20,Common Guillemot,6,Individuals on land,Accurate,good,None,2,,,23,6,1989
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1994,,Common Guillemot,16,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1995,,Common Guillemot,17,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1996,,Common Guillemot,26,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1997,,Common Guillemot,15,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1998,,Common Guillemot,18,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,1999,,Common Guillemot,13,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2000,,Common Guillemot,11,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2001,,Common Guillemot,15,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2002,,Common Guillemot,5,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2003,,Common Guillemot,25,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2004,,Common Guillemot,43,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2005,,Common Guillemot,27,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,02-Jun-06,14:50-15:00,Common Guillemot,13,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,09-Jun-07,12:45-13:00,Common Guillemot,9,Individuals on land,Accurate,good,None,3,,,9,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,07-Jun-08,11:30-11:45,Common Guillemot,8,Individuals on land,Accurate,good,None,2,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,08-Jun-09,18:30-18:45,Common Guillemot,9,Individuals on land,Accurate,good,None,2,,,8,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,04-Jun-10,13:00-13:10,Common Guillemot,7,Individuals on land,Accurate,good,None,1,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,19-Jun-11,00:00,Common Guillemot,8,Individuals on land,Accurate,,,,,,19,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,09-Jun-12,11:00-11:15,Common Guillemot,8,Individuals on land,Accurate,good,None,2,,,9,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,2 June 2013 - 16 June 2013,00:00,Common Guillemot,15,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,15-Jun-14,00:00,Common Guillemot,29,Individuals on land,Accurate,good,None,2,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),The Castle,21-Jun-15,00:00,Common Guillemot,11,Individuals on land,Accurate,good,None,3,,,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2002,,Common Guillemot,207,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2003,,Common Guillemot,293,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2004,,Common Guillemot,255,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2005,,Common Guillemot,313,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,02-Jun-06,14:30-14:50,Common Guillemot,319,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,09-Jun-07,12:30-12:45,Common Guillemot,175,Individuals on land,Accurate,good,None,3,,,9,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,07-Jun-08,11:15-11:30,Common Guillemot,304,Individuals on land,Accurate,good,None,2,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,08-Jun-09,18:15-18:30,Common Guillemot,315,Individuals on land,Accurate,good,None,2,,,8,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,04-Jun-10,12:30-12:50,Common Guillemot,235,Individuals on land,Accurate,good,None,1,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,30-Jun-11,12:30-12:50,Common Guillemot,242,Individuals on land,Accurate,good,None,1,,,30,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,09-Jun-12,10:45-11:00,Common Guillemot,228,Individuals on land,Accurate,good,None,2,,,9,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,01-Jul-13,00:00,Common Guillemot,408,Individuals on land,Accurate,,,,,,1,7,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,15-Jun-14,00:00,Common Guillemot,184,Individuals on land,Accurate,good,None,2,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,21-Jun-15,00:00,Common Guillemot,166,Individuals on land,Estimate,good,None,3,"Birds in view from land, ..",,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,11-Jun-16,00:00,Common Guillemot,324,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,03-Jun-17,10:45-11:00,Common Guillemot,325,Individuals on land,Accurate,good,None,2,,,3,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,02-Jun-18,10:30-10:45,Common Guillemot,420,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1986,,Common Guillemot,3553,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1990,,Common Guillemot,2691,Individuals on land,Estimate,,,,JA,,12,6,1990
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1992,,Common Guillemot,5802,Individuals on land,Accurate,,,,JA,,14,6,1992
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1993,,Common Guillemot,5329,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1994,,Common Guillemot,5068,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1995,,Common Guillemot,5928,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),06 June 1996 - 21 June 1996,10:00-14:00,Common Guillemot,4865,Individuals on land,Accurate,good,None,3,,,,,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1997,,Common Guillemot,6091,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1998,,Common Guillemot,6758,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),1999,,Common Guillemot,7951,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2000,,Common Guillemot,6817,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2001,,Common Guillemot,8023,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2002,,Common Guillemot,8771,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2003,,Common Guillemot,10342,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2004,,Common Guillemot,10049,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),2005,,Common Guillemot,12381,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),03-Jun-06,09:15-11:15,Common Guillemot,10235,Individuals on land,Estimate,good,None,3,Top of main stack colony ..,,3,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),06-Jun-07,17:00-20:00,Common Guillemot,12081,Individuals on land,Estimate,good,None,3,,,6,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),31-May-08,10:30-13:30,Common Guillemot,11750,Individuals on land,Estimate,good,None,1,,,31,5,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),06-Jun-09,09:30-12:30,Common Guillemot,13445,Individuals on land,Estimate,good,None,1,Estimate becasue top ..,,6,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),01-Jun-10,10:00-13:00,Common Guillemot,13020,Individuals on land,Accurate,good,None,1,,,1,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),30-Jun-11,10:00-13:00,Common Guillemot,12605,Individuals on land,Estimate,good,None,1,,,30,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),02-Jun-12,09:00-12:00,Common Guillemot,13143,Individuals on land,Estimate,good,None,1,helped by Paul Culyer ..,,2,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),01-Jul-13,00:00,Common Guillemot,14972,Individuals on land,Accurate,,,,,,1,7,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),07-Jun-14,00:00,Common Guillemot,15655,Individuals on land,Estimate,good,None,2,,,7,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),21-Jun-15,00:00,Common Guillemot,15136,Individuals on land,Estimate,good,None,3,"AS USUAL, THE TOP OF ..",,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),04-Jun-16,09:45-12:30,Common Guillemot,16439,Individuals on land,Estimate,good,None,1,,,4,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),04-Jun-17,09:00-12:00,Common Guillemot,13222,Individuals on land,Estimate,good,None,2,Top of main stack assessed ..,,4,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Green Bridge of Wales to Flimston Bay (Elegug Stacks),01-Jun-18,14:30-17:00,Common Guillemot,15130,Individuals on land,Estimate,good,None,2,,,1,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1986,,Common Guillemot,290,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,23-Jun-89,12:00-12:15,Common Guillemot,284,Individuals on land,Accurate,good,None,2,,,23,6,1989
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1992,,Common Guillemot,348,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1993,,Common Guillemot,352,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1994,,Common Guillemot,462,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1995,,Common Guillemot,436,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1996,,Common Guillemot,480,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1997,,Common Guillemot,429,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1998,,Common Guillemot,487,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,1999,,Common Guillemot,519,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2000,,Common Guillemot,433,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2001,,Common Guillemot,432,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2002,,Common Guillemot,570,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2003,,Common Guillemot,640,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2004,,Common Guillemot,631,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,2005,,Common Guillemot,668,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,02-Jun-06,13:30-14:00,Common Guillemot,742,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,10-Jun-07,10:30-11:00,Common Guillemot,766,Individuals on land,Accurate,good,None,3,,,10,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,07-Jun-08,10:45-11:00,Common Guillemot,721,Individuals on land,Accurate,good,None,2,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,19-Jun-09,14:00-14:45,Common Guillemot,698,Individuals on land,Accurate,good,None,2,,,19,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,04-Jun-10,12:00-12:10,Common Guillemot,506,Individuals on land,Accurate,good,None,1,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,30-Jun-11,12:00-12:10,Common Guillemot,496,Individuals on land,Accurate,good,None,1,,,30,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,01-Jul-13,00:00,Common Guillemot,750,Individuals on land,Accurate,,,,,,1,7,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,15-Jun-14,00:00,Common Guillemot,639,Individuals on land,Accurate,good,None,2,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,21-Jun-15,00:00,Common Guillemot,201,Individuals on land,Estimate,good,None,3,ONLY THOSE VIEWABLE ..,,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,11-Jun-16,00:00,Common Guillemot,634,Individuals on land,Estimate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,17-Jun-17,10:30-10:50,Common Guillemot,605,Individuals on land,Estimate,good,None,2,,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches,02-Jun-18,10:05-10:15,Common Guillemot,689,Individuals on land,Estimate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1986,,Common Guillemot,53,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1989,,Common Guillemot,149,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1992,,Common Guillemot,148,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1997,,Common Guillemot,37,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1998,,Common Guillemot,45,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,1999,,Common Guillemot,52,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2000,,Common Guillemot,56,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2001,,Common Guillemot,45,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2002,,Common Guillemot,110,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2003,,Common Guillemot,115,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2004,,Common Guillemot,69,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,2005,,Common Guillemot,63,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,02-Jun-06,14:00-14:30,Common Guillemot,66,Individuals on land,Accurate,good,None,2,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,09-Jun-07,12:00-12:30,Common Guillemot,72,Individuals on land,Accurate,good,None,3,,,9,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,07-Jun-08,11:00-11:15,Common Guillemot,87,Individuals on land,Accurate,good,None,2,,,7,6,2008
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,08-Jun-09,17:45-18:00,Common Guillemot,93,Individuals on land,Accurate,good,None,2,,,8,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,04-Jun-10,12:15-12:30,Common Guillemot,68,Individuals on land,Accurate,good,None,1,,,4,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,30-Jun-11,12:15-12:30,Common Guillemot,72,Individuals on land,Accurate,good,None,1,,,30,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,09-Jun-12,10:30-10:45,Common Guillemot,65,Individuals on land,Estimate,good,None,2,,,9,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,01-Jul-13,00:00,Common Guillemot,146,Individuals on land,Accurate,,,,,,1,7,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,15-Jun-14,00:00,Common Guillemot,107,Individuals on land,Accurate,good,None,1,,,15,6,2014
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,21-Jun-15,00:00,Common Guillemot,2,Individuals on land,Estimate,good,None,3,A CONSIDERABLE UNDERESTIMATE ..,,21,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,11-Jun-16,00:00,Common Guillemot,112,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,17-Jun-17,10:50-11:10,Common Guillemot,99,Individuals on land,Accurate,good,None,2,,,17,6,2017
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Arches to Crickmail Point,02-Jun-18,10:15-10:30,Common Guillemot,229,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Mewsford Point - The Castle,1986,,Common Guillemot,355,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,,Abermawr - Penbwchdy,1987,00:00,Common Guillemot,0,Occupied nests,Accurate,,,,JA,,9,6,1987
+Wales,Dyfed,,Abermawr - Penbwchdy,1996,,Common Guillemot,0,Occupied nests,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,,Caldey Island,02-Jun-85,,Common Guillemot,25,Individuals on land,Accurate,,,,,,2,6,1985
+Wales,Dyfed,,Caldey Island,1986,,Common Guillemot,12,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,,Caldey Island,1987,,Common Guillemot,27,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,,Caldey Island,1988,,Common Guillemot,15,Individuals on land,Estimate,,,,,,10,6,1988
+Wales,Dyfed,,Caldey Island,1989,,Common Guillemot,27,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,,Caldey Island,1990,,Common Guillemot,10,Individuals on land,Accurate,,,,JA,,12,6,1990
+Wales,Dyfed,,Caldey Island,1991,,Common Guillemot,19,Individuals on land,Accurate,,,,,,13,6,1991
+Wales,Dyfed,,Caldey Island,21-May-92,00:00,Common Guillemot,22,Individuals on land,Estimate,,,,,,21,5,1992
+Wales,Dyfed,,Caldey Island,1993,,Common Guillemot,22,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,,Caldey Island,1994,,Common Guillemot,27,Individuals on land,Minimum,,,,,,16,6,1994
+Wales,Dyfed,,Caldey Island,1995,,Common Guillemot,38,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,,Caldey Island,1996,,Common Guillemot,11,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,,Caldey Island,1997,,Common Guillemot,9,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,,Caldey Island,1998,,Common Guillemot,11,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,,Caldey Island,1999,00:00,Common Guillemot,10,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,,Caldey Island,2000,00:00,Common Guillemot,9,Individuals on land,Minimum,,,,,,22,6,2000
+Wales,Dyfed,,Caldey Island,2001,00:00,Common Guillemot,24,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,,Caldey Island,2002,00:00,Common Guillemot,13,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,,Caldey Island,2003,00:00,Common Guillemot,12,Individuals on land,Accurate,,,,,,25,6,2003
+Wales,Dyfed,,Caldey Island,2004,00:00,Common Guillemot,11,Individuals on land,Accurate,,,,,,26,6,2004
+Wales,Dyfed,,Caldey Island,2005,00:00,Common Guillemot,15,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,,Caldey Island,03-Jun-06,00:00,Common Guillemot,21,Individuals on land,Estimate,,,,,,3,6,2006
+Wales,Dyfed,,Caldey Island,19 May 2007 - 21 May 2007,,Common Guillemot,11,Individuals on land,Estimate,,,,,,,,2007
+Wales,Dyfed,,Caldey Island,17 May 2008 - 18 May 2008,00:00,Common Guillemot,25,Individuals on land,Estimate,,,,,,,,2008
+Wales,Dyfed,,Caldey Island,22-May-09,09:00-15:00,Common Guillemot,18,Individuals on land,Estimate,fair,None,3,33 ON SEA,,22,5,2009
+Wales,Dyfed,,Caldey Island,17-May-10,09:00-16:30,Common Guillemot,25,Individuals on land,Estimate,good,None,0,,,17,5,2010
+Wales,Dyfed,,Caldey Island,24-May-11,09:00-16:00,Common Guillemot,31,Individuals on land,Estimate,good,None,3,,,24,5,2011
+Wales,Dyfed,,Caldey Island,22 May 2012 - 23 May 2012,09:00-16:00,Common Guillemot,23,Individuals on land,Estimate,good,None,0,,,,,2012
+Wales,Dyfed,,Caldey Island,20-May-13,09:00-17:00,Common Guillemot,31,Individuals on land,Estimate,good,None,0,one site is difficult ..,,20,5,2013
+Wales,Dyfed,,Caldey Island,21 May 2014 - 1 June 2014,09:00-17:00,Common Guillemot,35,Individuals on land,Estimate,good,None,0,maximum numbers,,,,2014
+Wales,Dyfed,,Caldey Island,20 May 2015 - 23 May 2015,10:00-17:00,Common Guillemot,28,Individuals on land,Estimate,good,None,2,Probably no change in ..,,,,2015
+Wales,Dyfed,,Caldey Island,13 May 2016 - 23 May 2016,10:00-17:00,Common Guillemot,38,Individuals on land,Estimate,good,None,2,some new locations,,,,2016
+Wales,Dyfed,,Caldey Island,18 May 2017 - 19 May 2017,08:30-17:00,Common Guillemot,58,Individuals on land,Estimate,good,None,2,more new sub sites,,,,2017
+Wales,Dyfed,,Caldey Island,17 May 2018 - 18 May 2018,08:30-17:00,Common Guillemot,57,Individuals on land,Estimate,good,None,1,"reasonable estimate, ..",,,,2018
+Wales,Dyfed,,Carreg-wynt - Mwnt,18-Jun-87,,Common Guillemot,50,Individuals on land,Accurate,,,,,,18,6,1987
+Wales,Dyfed,,Carreg-wynt - Mwnt,1996,00:00,Common Guillemot,0,Occupied nests,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,,Carreg-wynt - Mwnt,05-Jun-18,13:05-13:35,Common Guillemot,35,Individuals on land,Accurate,good,None,,,,5,6,2018
+Wales,Dyfed,Barafundle to Giltar Point,Skomar to Lydstep Haven,1996,00:00,Common Guillemot,6,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Barafundle to Giltar Point,Skomar to Lydstep Haven,02-Jun-18,14:00-14:15,Common Guillemot,4,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Barafundle to Giltar Point,Skrinkle Haven to Skomar,2005,,Common Guillemot,3,Individuals on land,Accurate,,,,,,27,6,2005
+Wales,Dyfed,Barafundle to Giltar Point,Skrinkle Haven to Skomar,13-Jun-06,12:30-12:45,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,13,6,2006
+Wales,Dyfed,Barafundle to Giltar Point,Skrinkle Haven to Skomar,02-Jun-18,13:45-14:00,Common Guillemot,0,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Bishop & Clerks and Ramsey,Bishops & Clerks Islands RSPB,1987,,Common Guillemot,8,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Bishop & Clerks and Ramsey,Bishops & Clerks Islands RSPB,1995,,Common Guillemot,10,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Bishop & Clerks and Ramsey,Bishops & Clerks Islands RSPB,1996,,Common Guillemot,6,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Bishop & Clerks and Ramsey,Bishops & Clerks Islands RSPB,1997,,Common Guillemot,7,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Bishop & Clerks and Ramsey,Bishops & Clerks Islands RSPB,09-Jun-01,10:00 - 12:00,Common Guillemot,12,Individuals on land,Accurate,good,None,3,,,9,6,2001
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1987,,Common Guillemot,1342,Individuals on land,Accurate,,,,,,9,6,1987
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1992,,Common Guillemot,2169,Individuals on land,Accurate,,,,,,14,6,1992
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1994,,Common Guillemot,2397,Individuals on land,Accurate,,,,,,16,6,1994
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1995,,Common Guillemot,2487,Individuals on land,Accurate,,,,,,17,6,1995
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1996,,Common Guillemot,2640,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1997,,Common Guillemot,2650,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1999,,Common Guillemot,3063,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,25-May-99,,Common Guillemot,1,Individuals on land,Accurate,,,,,,25,5,1999
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,2000,,Common Guillemot,3031,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,2001,,Common Guillemot,3284,Individuals on land,Accurate,,,,,,23,6,2001
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,01-Jun-01,,Common Guillemot,147,Individuals on land,Accurate,good,None,2,,,1,6,2001
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,2002,,Common Guillemot,3574,Individuals on land,Accurate,,,,,,24,6,2002
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,2007,,Common Guillemot,3438,Individuals on land,Accurate,,,,,,29,6,2007
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,1 January 2012 - 29 November 2012,00:00,Common Guillemot,4204,Individuals on land,Accurate,,,,,,,,2012
+Wales,Dyfed,Bishop & Clerks and Ramsey,Ramsey Island RSPB,2015,00:00,Common Guillemot,4403,Individuals on land,Accurate,,,,,,7,7,2015
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1986,,Common Guillemot,0,Individuals on land,Accurate,,,,,,8,6,1986
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1988,,Common Guillemot,1,Individuals on land,Accurate,,,,,,10,6,1988
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1989,,Common Guillemot,3,Individuals on land,Accurate,,,,,,11,6,1989
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1990,00:00,Common Guillemot,5,Occupied nests,Accurate,,,,JA,,12,6,1990
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,12-Jul-90,00:00,Common Guillemot,5,Occupied nests,Estimate,,,,,,12,7,1990
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1993,,Common Guillemot,5,Individuals on land,Accurate,,,,,,15,6,1993
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1994,00:00,Common Guillemot,9,Individuals on land,Estimate,,,,,,16,6,1994
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1995,,Common Guillemot,9,Individuals on land,Accurate,,,,JA,,17,6,1995
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1996,,Common Guillemot,2,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1997,,Common Guillemot,1,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,1998,,Common Guillemot,10,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,25-Jun-04,00:00,Common Guillemot,31,Individuals on land,Estimate,,,,,,25,6,2004
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,19-May-06,00:00,Common Guillemot,60,Occupied sites,Accurate,,,,,,19,5,2006
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,04-Jun-09,00:00,Common Guillemot,84,Individuals on land,Accurate,,,,,,4,6,2009
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,22-May-15,00:00,Common Guillemot,87,Occupied sites,Accurate,,,,,,22,5,2015
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,16-Jun-15,00:00,Common Guillemot,5,Individuals on land,Accurate,,,,,,16,6,2015
+Wales,Dyfed,Cardigan Island and Mwnt to Carreg Lydan,Cardigan Island,04-Jun-18,17:05-17:25,Common Guillemot,97,Individuals on land,Estimate,good,None,0,,,4,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Berry Slade to Wind Bay,1986,,Common Guillemot,8,Individuals on land,Estimate,,,,JA,,8,6,1986
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Berry Slade to Wind Bay,1996,,Common Guillemot,0,Individuals on land,Accurate,,,,JA,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,02-Jun-06,11:45-12:00,Common Guillemot,5,Individuals on land,Accurate,good,None,3,,,2,6,2006
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,09-Jun-07,10:30-10:45,Common Guillemot,3,Individuals on land,Accurate,good,None,3,,,9,6,2007
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,12-Jun-09,18:45-19:10,Common Guillemot,9,Individuals on land,Accurate,good,None,2,,,12,6,2009
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,03-Jun-10,14:00-14:30,Common Guillemot,7,Individuals on land,Accurate,good,None,2,,,3,6,2010
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,19-Jun-11,00:00,Common Guillemot,3,Individuals on land,Accurate,good,None,2,,,19,6,2011
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,16-Jun-12,10:30-10:50,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,16,6,2012
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,2 June 2013 - 16 June 2013,00:00,Common Guillemot,6,Individuals on land,Accurate,,,,,,,,2013
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,07-Jun-15,00:00,Common Guillemot,10,Individuals on land,Accurate,good,None,3,,,7,6,2015
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,11-Jun-16,00:00,Common Guillemot,2,Individuals on land,Accurate,good,None,2,,,11,6,2016
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Cabin Door to The Wash,02-Jun-18,09:05-09:25,Common Guillemot,1,Individuals on land,Accurate,good,None,1,,,2,6,2018
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Castle to St Govans Head,1997,,Common Guillemot,7,Individuals on land,Accurate,,,,,,19,6,1997
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,23-Jun-89,11:30-11:50,Common Guillemot,143,Individuals on land,Accurate,good,None,2,,,23,6,1989
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,1996,,Common Guillemot,109,Individuals on land,Accurate,,,,,,18,6,1996
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,1998,,Common Guillemot,155,Individuals on land,Accurate,,,,,,20,6,1998
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,1999,,Common Guillemot,177,Individuals on land,Accurate,,,,,,21,6,1999
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2000,,Common Guillemot,179,Individuals on land,Accurate,,,,,,22,6,2000
+Wales,Dyfed,Castlemartin Coast SPA (Berryslade to Barafundle Bay),Crickmail Point to The Castle,2001,,Common Guillemot,176,Individuals on land,Accurate,,,,,,23,6,2001

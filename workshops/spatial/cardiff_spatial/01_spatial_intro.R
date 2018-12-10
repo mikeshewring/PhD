@@ -2,12 +2,15 @@
 # and maybe some graphs/ maps
 
 # Cardiff 13th Dec 2018
+#install ####
+install.packages(c("sf","ggplot2","ggspatial","rgdal","rgbif","rnaturalearth", "rgeos", "raster","dplyr","tidyr","ggthemes"))
 
+#libraries ####
+library(maps)
 library(sf)
 library(ggplot2)
 library(ggspatial)
 library(rgdal)
-library(rgbif)
 library(rnaturalearth)
 library(rgeos)
 library(raster)
@@ -54,7 +57,7 @@ text(x = -15, y = 50.2, "EPSG:4326 - WGS84", pos = 2, cex = 0.7)
 
 #lets filter to wales
 wales=country_sf_gbr%>%filter(NAME_1 =="Wales")
-
+wales
 plot(wales$geometry, graticule = TRUE, axes = TRUE, col = "wheat1") #xlim = c(-5, 1), ylim = c(51, 53.5))
 plot(proj_city_points, pch = 19, col = c("magenta", "blue"), cex = 1.5, add = TRUE)
 legend("topleft", legend = proj_city_points$name, col = c("magenta", "blue"), pch = 19, cex = 1.5, bty="n")
@@ -131,8 +134,44 @@ plot(st_geometry(p1[p1_poly1,]), col = "turquoise", pch = 19, cex = 2, add = TRU
 
 #Spatial data are increasingly available from the Web, from species occurrence to natural and  cultural features data, accessing spatial data is now relatively easy. For base layers, you can find many freely available data sets such as the ones provided by the Natural Earth [http://www.naturalearthdata.com], the IUCN Protected Planet database [www.protectedplanet.net], the GADM project [https://gadm.org], worldclim [http://worldclim.org/version2] the CHELSA climate data sets [http://chelsa-climate.org] or the European Environmental Agency [https://www.eea.europa.eu/data-and-maps/data#c0=5&c11=&c5=all&b_start=0]
 
+# 03. loading data ####
+# lets get some seabird data http://lle.gov.wales/catalogue/item/SeabirdsAtSea/?lang=en
+#GIS layers showing the abundance and distribution of seabirds in welsh waters. The datasets consist of the raw data showing observations of all seabirds and derived grids showing the density of flying and sitting species on a 3km grid scale and the survey coverage. The purpose of this data capture was to collate data from ESAS and WWT Consulting databases to produce combined database of birds recorded from surveys of Welsh waters.
 
-# 03. lets play with some data ####
+# load shapefile of polygons
+ESAS<-sf::st_read("workshops/spatial/cardiff_spatial/NRW_SEABIRD_WWT_ESAS_MERGED_SITTING_2KM_WGS84/NRW_SEABIRD_WWT_ESAS_MERGED_SITTING_2KM_WGS84Polygon.shp")
+ESAS
+#lets transform to Uk CRS ref
+ESAS <- sf::st_transform(ESAS, crs = 27700)
+
+#inspect data
+str(ESAS) # data is in a wide format i.e. some coloumns are not variables (species, count)
+
+# lets convert to a tidy dataframe and filter to Guillemot 
+foo=gather(ESAS, key="species", value="count", 4:27)%>%
+  # turn into col per variable
+    filter(species=="Guillemot")%>%
+  #filter to Guillemot
+  filter(!count=="0")
+  #remove zero values. Probably not a good idea for analysis but useful for visualisation here to save time
+foo <- sf::st_transform(foo, crs = 27700)
+wales_osgb <- sf::st_transform(wales_osgb, crs = 27700)
+
+# base sf plot of count
+plot(wales_osgb$geometry, col="grey", graticule=T, axes = T)
+plot(foo[7], add=T)
+
+# ggplot of count on the Wales base map we created earlier
+(UA.map<-ggplot(foo) +
+  geom_sf(aes(fill = as.numeric(count)))+
+    scale_fill_viridis_c(option = "plasma", name = "density")+
+    xlab("Longitude")+ylab("Latitude")+
+    geom_sf(data=wales_osgb, colour = "gray40")+
+    ggtitle("ESAS Uria aalge density map") +
+    theme(panel.background = element_rect(fill = "aliceblue")))
+
+
+# 04. lets download some data fro a different source and check against our ESAS to see if the story is the same####
 # Download species occurrence records from the Global Biodiversity Information Facility
 # *** rgbif package and the occ_search() function ***
 #The package rgbif offers an interface to the Web Service methods provided by GBIF. It includes functions for searching for taxonomic names, retrieving information on data providers, getting species occurrence records and getting counts of occurrence records.
@@ -143,7 +182,7 @@ UK_code <- isocodes[grep("United Kingdom", isocodes$name), "code"]
 
 # Now, we can download all the occurrence records for the Common guillemot/ murre (Uria aalge) in the UK using the function occ_search.
 
-occ <- occ_search(scientificName = "Uria aalge", country = UK_code, hasCoordinate = TRUE, limit = 5000, year = '2006,2016', return = "data")
+occ <- occ_search(scientificName = "Uria aalge", country = UK_code, hasCoordinate = TRUE, limit = 20000, year = '2000,2018', return = "data")
 #This will return a dataset of all the occurrences recorded in the UK between 2006 and 2016 that have geographic coordinates.
 
 # Have a look at the dataset
@@ -154,32 +193,154 @@ occ<-  dplyr::select(occ,key, name, decimalLongitude,
                      decimalLatitude, year,
                      individualCount, country)
 
-theme_LPI <- function(){
-  theme_bw() +
-    theme(axis.text.x = element_text(size = 12, angle = 45, vjust = 1, hjust = 1),
-          axis.text.y = element_text(size = 12),
-          axis.title.x = element_text(size = 14, face = "plain"),
-          axis.title.y = element_text(size = 14, face = "plain"),
-          panel.grid.major.x = element_blank(),
-          panel.grid.minor.x = element_blank(),
-          panel.grid.minor.y = element_blank(),
-          panel.grid.major.y = element_blank(),
-          plot.margin = unit(c(0.5, 0.5, 0.5, 0.5), units = , "cm"),
-          plot.title = element_text(size = 20, vjust = 1, hjust = 0.5),
-          legend.text = element_text(size = 12, face = "italic"),
-          legend.title = element_blank(),
-          legend.position = c(0.9, 0.9))
-} # useful function to create a custom ggplot to mapping theme
 
-(map <- ggplot(occ, aes(x = decimalLongitude, y = decimalLatitude)) + 
+(UA.gbifmap <- ggplot(occ, aes(x = decimalLongitude, y = decimalLatitude)) + 
     # Specify to only present the UK region of the world in the map 
     # Also change the colour, size of map country borders
-    borders(database = "world", regions = "UK", colour = "gray40", size = 0.3) +  
-    theme_map() + 
+    borders(database = "world", regions = "UK", colour = "gray40", size = 0.3) +
     # Change the colour and transparency of the plotted occurrence points 
     geom_point(alpha = 0.4, colour = "red")) 
 
-#Some of the data points are not on the coast, which that these are probably not Guillemot. In order to delete them, we are going to use the UK coastline to select only the datapoints that are within 1 km of the coast and the ones that are on the sea. The first step is to split the dataset into a marine and a terrestrial one. After that, we can select only the points that are on the coast from the terrestrial dataset. Finally, we will put the marine and coastal points together. This is only one of the possible ways in which you can do this, another common one being the use of a buffer around the coastline.
+#convert to sf object
+gbifocc=sf::st_as_sf(occ,coords = c("decimalLongitude", "decimalLatitude"), crs=4326)
 
- 
+# crop to our area of interest i.e. Wales and surrounding area
+gbifocc1=st_crop(gbifocc, (st_buffer(wales, 0.5)))
+#lets transform to Uk CRS ref
+gbifocc1 <- sf::st_transform(gbifocc1, crs = 27700)
+
+# extract point coords for density mapping in ggplot2
+sf_dots <- st_coordinates(gbifocc1)%>%as.data.frame()%>%setNames(c("lon","lat"))
+sf_dots
+
+# ggplot of count on the Wales base map we created earlier
+(UA.gbifmap<-ggplot()
+  +stat_density_2d(data=sf_dots, aes(x=lon, y=lat, fill = ..level..), geom="polygon")
+  +scale_fill_viridis_c(option = "plasma", name = "No. of Occurences")
+  +geom_sf(data=gbifocc1)
+  +xlab("Longitude")
+  +ylab("Latitude")
+  +geom_sf(data=wales_osgb, colour = "gray40")
+  +ggtitle("GBIF Uria aalge occurence map") 
+  +theme(panel.background = element_rect(fill = "aliceblue")))
+
+# arrange maps in a grid for presentation
+row1 <- grid.arrange(UA.gbifmap, UA.map, ncol = 2, widths = c(1, 1))
+
+
+# 05. lets download some modelling predictions from tracking data and check against our ESAS and GBIF data####
+#2010-2014 Royal Society for the Protection of Birds (RSPB) United Kingdom Shag, Guillemot, Kittiwake and Razorbill distributions
+#estimate the distribution at sea of four seabird species, foraging from approximately 5,500 breeding sites in Britain and Ireland. To do so, we GPS-tracked a sample of 230 European Shags Phalacrocorax aristotelis, 464 Black-legged Kittiwakes Rissa tridactyla, 178 Common Murres Uria aalge, and 281 Razorbills Alca torda from 13, 20, 12, and 14 colonies, respectively. Using Poisson point process habitat use models
+#data availabke here = http://dassh.ac.uk/downloads/DASSHDT00000346-AS01/Lonlat_Murre.tif"
+#
+UA.rast<-raster("workshops/spatial/cardiff_spatial/Lonlat_Murre.tif")
+
+#crop to area of interest
+UA.rastwales<-crop(UA.rast, wales)
+
+#plot
+plot(UA.rastwales, xlab = "lat", ylab="long")
+
+
+# 06. lets review seabird census data for the region####
+JNCC<-st_read("workshops/spatial/cardiff_spatial/JNCC_seabird_census_data/Data/magseabirds.shp")
+
+#inspect data
+str(JNCC)
+
+names(JNCC)
+# lets convert to a tidy dataframe and filter to Guillemot 
+UA.JNCC=gather(JNCC, key="species", value="count", 4:29)%>%
+  # turn into col per variable
+  filter(species=="GUILLEMOT")
+
+UA.JNCC<-sf::st_transform(UA.JNCC, crs = 27700)
+
+#crop to area of interest
+UA.JNCC<-st_crop(UA.JNCC, wales_osgb)
+
+#sf plot
+plot(UA.JNCC[5], graticule =T, axes = T)
+plot(wales_osgb$geometry, add=T)
+
+# extract point coords for density mapping in ggplot2
+sf_dots <- st_coordinates(UA.JNCC)%>%as.data.frame()%>%setNames(c("lon","lat"))
+sf_dots
+
+# ggplot of count on the Wales base map we created earlier
+(UA.JNCCmap<-ggplot()
+  +stat_density_2d(data=sf_dots, aes(x=lon, y=lat, fill = ..level..), geom="polygon")
+  +scale_fill_viridis_c(option = "plasma", name = "No. of Occurences")
+  +geom_sf(data=UA.JNCC)
+  +xlab("Longitude")
+  +ylab("Latitude")
+  +geom_sf(data=wales_osgb, colour = "gray40")
+  +ggtitle("JNCC Uria aalge colony map") 
+  +theme(panel.background = element_rect(fill = "aliceblue")))
+
+# 07 colony count data
+# http://jncc.defra.gov.uk/smp/Default.aspx
+
+UA.df<-read.csv("workshops/spatial/cardiff_spatial/JNCC_seabird_census_data/JNCC_seabird_data.csv")
+
+summary(as.factor(UA.df$Master.site))
+
+UA.df$year<-as.numeric(UA.df$year)
+
+plot(UA.df$Count~UA.df$year)
+plot(UA.df2$scalepop~UA.df2$year)
+
+UA.df2<-UA.df%>%  distinct()%>%  filter(is.finite(Count))%>%  group_by(Master.site, Site)%>%  mutate(maxyear= max(year), minyear=min(year), duration=maxyear-minyear, scalepop=(Count-min(Count))/(max(Count)-min(Count)))%>%filter(is.finite(scalepop), length(unique(year))>5)%>%ungroup()
+library(broom)
+
+#skomer trends
+dat=filter(UA.df2,UA.df2$Site=="Skomer")
+mod<-lm(scalepop~as.factor(year), data=dat)
+sk=tidy(mod)
+sk$year=seq(1985,2016,1)
+
+plot(sk$estimate~sk$year)
+(Skomer.slopes <- ggplot(sk, aes(x = year, y = estimate)) +
+  geom_pointrange(aes(ymin = estimate - std.error,
+                      ymax = estimate + std.error),
+                  alpha = 0.3, size = 0.3) +
+    geom_point()+
+    geom_smooth(method = "lm", colour = "yellow", fill = "yellow", alpha = 0.4)+
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    ggtitle("JNCC Skomer SPA Uria aalge colony counts")+
+    ylim(-1,1)+
+    ylab("Population change\n") +
+    xlab("\nYear"))
+
+# castlemartin
+dat=filter(UA.df2,UA.df2$Master.site=="Castlemartin Coast SPA (Berryslade to Barafundle Bay)")
+mod<-lm(scalepop~as.factor(year), data=dat)
+sk=tidy(mod)
+sk$year=seq(1986,2018,1)
+
+(Castlemartin.SPA.slopes <- ggplot(sk, aes(x = year, y = estimate)) +
+    geom_pointrange(aes(ymin = estimate - std.error,
+                        ymax = estimate + std.error),
+                    alpha = 0.3, size = 0.3) +
+    geom_smooth(method = "lm", colour = "yellow", fill = "yellow", alpha = 0.4)+
+    geom_hline(yintercept = 0, linetype = "dashed") +
+    ggtitle("JNCC Castlemartin SPA Uria aalge colony counts")+
+    ylim(-1,1)+
+    ylab("Population change\n") +
+    xlab("\nYear"))
+
+# 06 ####
+# Create panel of all graphs
+# Makes a panel of the map and occurrence plot and specifies the ratio
+# i.e., we want the map to be wider than the other plots
+# suppressWarnings() suppresses warnings in the ggplot call here
+row1 <- suppressWarnings(grid.arrange(UA.map, UA.gbifmap, ncol = 2, widths = c(1, 1)))
+# Makes a panel of the four population plots
+row2 <- grid.arrange(UA.JNCCmap, Skomer.slopes, Castlemartin.SPA.slopes, ncol = 3, widths = c(1, 1, 1))
+
+# Makes a panel of all the population plots and sets the ratio
+# Stich all of your plots together
+UA.panel <- grid.arrange(row1, row2, nrow = 2, heights = c(1.2, 0.8))
+
+ggsave(UA.panel, filename = "UA.png", height = 10, width = 15)
 
