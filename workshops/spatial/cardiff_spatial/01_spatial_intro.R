@@ -77,8 +77,8 @@ plot(proj_city_points_osgb, pch = 19, col = c("magenta", "blue"), cex = 1.5, add
 legend("topleft", legend = proj_city_points_osgb$name, col = c("magenta", "blue"), pch = 19, cex = 1.5, bty="n")
 text(x = -18000, y = 180000, "EPSG:27700 - OSGB 1936 ", pos = 4, cex = 0.7)
 
-# 02. create features from scratch ####
-# points ####
+# 02. create spatial features from scratch ####
+# points ###
 p1 <- sf::st_point(c(1, 2)) # using st_point to create a point with the co-ordinates x=1,y=2
 p2 <- sf::st_point(c(3, 5))# using st_point to create a point with the co-ordinates x=3,y=5
 
@@ -93,7 +93,7 @@ plot(p1)
 plot(p3, col = "blue", pch = 19)
 plot(p5, col = "magenta", pch = 19, add = TRUE)
 
-### Lines ####
+### Lines ###
 l1 <- sf::st_linestring(matrix(c(1, 1, 2, 2, 3, 3, 4, 4, 4, 2), ncol = 2, byrow = TRUE)) # create a line using linestring command and a matrix of co-ordinates
 
 bl1 <- sf::st_buffer(l1, 2) # buffer linestring st_buffer command (also works with points, multi-points and polys)
@@ -102,7 +102,7 @@ plot(bl1)
 plot(l1, col = "tomato3", lwd = 1.5, add = TRUE)
 
 
-### Polygons ####
+### Polygons ###
 bl1 <- sf::st_buffer(l1, 2)
 
 plot(bl1, col = "lightblue", border = NA)
@@ -134,7 +134,7 @@ plot(st_geometry(p1[p1_poly1,]), col = "turquoise", pch = 19, cex = 2, add = TRU
 
 #Spatial data are increasingly available from the Web, from species occurrence to natural and  cultural features data, accessing spatial data is now relatively easy. For base layers, you can find many freely available data sets such as the ones provided by the Natural Earth [http://www.naturalearthdata.com], the IUCN Protected Planet database [www.protectedplanet.net], the GADM project [https://gadm.org], worldclim [http://worldclim.org/version2] the CHELSA climate data sets [http://chelsa-climate.org] or the European Environmental Agency [https://www.eea.europa.eu/data-and-maps/data#c0=5&c11=&c5=all&b_start=0]
 
-# 03. loading data ####
+# 03. loading shapefile data - seabird data ####
 # lets get some seabird data http://lle.gov.wales/catalogue/item/SeabirdsAtSea/?lang=en
 #GIS layers showing the abundance and distribution of seabirds in welsh waters. The datasets consist of the raw data showing observations of all seabirds and derived grids showing the density of flying and sitting species on a 3km grid scale and the survey coverage. The purpose of this data capture was to collate data from ESAS and WWT Consulting databases to produce combined database of birds recorded from surveys of Welsh waters.
 
@@ -171,7 +171,7 @@ plot(foo[7], add=T)
     theme(panel.background = element_rect(fill = "aliceblue")))
 
 
-# 04. lets download some data fro a different source and check against our ESAS to see if the story is the same####
+# 04. Download some data from a different source and check against our ESAS to see if        the story is the same####
 # Download species occurrence records from the Global Biodiversity Information Facility
 # *** rgbif package and the occ_search() function ***
 #The package rgbif offers an interface to the Web Service methods provided by GBIF. It includes functions for searching for taxonomic names, retrieving information on data providers, getting species occurrence records and getting counts of occurrence records.
@@ -224,11 +224,8 @@ sf_dots
   +ggtitle("GBIF Uria aalge occurence map") 
   +theme(panel.background = element_rect(fill = "aliceblue")))
 
-# arrange maps in a grid for presentation
-row1 <- grid.arrange(UA.gbifmap, UA.map, ncol = 2, widths = c(1, 1))
 
-
-# 05. lets download some modelling predictions from tracking data and check against our ESAS and GBIF data####
+# 05. Raster data - Download some modelling predictions from tracking data and check         against our ESAS and GBIF data####
 #2010-2014 Royal Society for the Protection of Birds (RSPB) United Kingdom Shag, Guillemot, Kittiwake and Razorbill distributions
 #estimate the distribution at sea of four seabird species, foraging from approximately 5,500 breeding sites in Britain and Ireland. To do so, we GPS-tracked a sample of 230 European Shags Phalacrocorax aristotelis, 464 Black-legged Kittiwakes Rissa tridactyla, 178 Common Murres Uria aalge, and 281 Razorbills Alca torda from 13, 20, 12, and 14 colonies, respectively. Using Poisson point process habitat use models
 #data availabke here = http://dassh.ac.uk/downloads/DASSHDT00000346-AS01/Lonlat_Murre.tif"
@@ -242,7 +239,7 @@ UA.rastwales<-crop(UA.rast, wales)
 plot(UA.rastwales, xlab = "lat", ylab="long")
 
 
-# 06. lets review seabird census data for the region####
+# 06. Review seabird count data and locations for the region####
 JNCC<-st_read("workshops/spatial/cardiff_spatial/JNCC_seabird_census_data/Data/magseabirds.shp")
 
 #inspect data
@@ -278,7 +275,7 @@ sf_dots
   +ggtitle("JNCC Uria aalge colony map") 
   +theme(panel.background = element_rect(fill = "aliceblue")))
 
-# 07 colony count data
+# 08. JNCC colony count data ####
 # http://jncc.defra.gov.uk/smp/Default.aspx
 
 UA.df<-read.csv("workshops/spatial/cardiff_spatial/JNCC_seabird_census_data/JNCC_seabird_data.csv")
@@ -329,7 +326,7 @@ sk$year=seq(1986,2018,1)
     ylab("Population change\n") +
     xlab("\nYear"))
 
-# 06 ####
+# 09. Create panel of all graphs ####
 # Create panel of all graphs
 # Makes a panel of the map and occurrence plot and specifies the ratio
 # i.e., we want the map to be wider than the other plots
