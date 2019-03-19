@@ -1,0 +1,59 @@
+// GEE java code to obtain sentinel data mosaic
+// Mike Shewring 31 01 2019
+
+// Define Region of Interest (ROI) for filtering the Sentinel data 
+var ROI = geometry; // draw your region of interest manually in 
+// GEE or load in a polygon asa list of points
+Map.centerObject(ROI,11);  // move map to ROI at zoom level 11
+
+// Define temporal space to collect data from
+// Define the maximum cloudiness of the pictures for later masking
+var startdate = '2018-05-01'; // first image year-month-day
+var enddate = '2018-08-31'; // last image year-month-day
+var calendar = 'month'; // month','day_of_year' 
+var cloudiness = 5; // cloudiness in %
+
+// Import Sentinel data representing the ROI as ImageCollectoin and filter by date
+var s2_ROIData = ee.ImageCollection('COPERNICUS/S2')
+  .filterBounds(ROI)
+  .filterDate(startdate, enddate)
+  .map(function(image) {return image.clip(ROI);})
+  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', cloudiness)
+  );
+
+// Convert the collection to a list and get the number of images
+var count = s2_ROIData.size();
+print('Number of filtered images in the region of interest: ', count); // print the no. of available images to your console
+
+// Function to remove clouds from the image collection. 
+// The function uses the Sentinel-2 QA60 Band, 
+// where bit10 represents clouds and bit11 represents cirrus
+// Flags set to 0 indicating clear conditions. Returns masked and scaled data
+   function ROIData_cloudmask(image) {
+  var qa60 = image.select('QA60');
+  var cloudBitMask = ee.Number(2).pow(10).int();
+  var cirrusBitMask = ee.Number(2).pow(11).int();
+  var mask =     qa60.bitwiseAnd(cloudBitMask).eq(0).and(qa60.bitwiseAnd(cirrusBitMask).eq(0));
+return image.updateMask(mask).divide(10000);
+  }
+
+// Pre-filter the composit for less cloudy granules and take the median
+var ROIData_composite = s2_ROIData
+  .map(ROIData_cloudmask)
+  .median();
+
+// Display cloudfree composit and Indices of the ROI 
+// Values on Indices rangeing from -1 to 1, min and max adjusted for better visualization
+Map.addLayer(ROIData_composite, {bands: ['B4', 'B3', 'B2'], min: 0, max: 0.2},'Cloudfree');
+Map.addLayer(ROIData_composite, {bands: ['B8', 'B3', 'B2'], min: 0, max: 0.2},'FalseColCompCloudfree2');
+
+// Export the ROI satellite imagery (see Tasks tab)
+Export.image.toDrive({
+ image: ROIData_composite,
+  description: 'Sentinel2_Composite',
+  scale: 10,
+  maxPixels: 3784216672400,
+  region: ROI,
+  });
+ 
+ 
